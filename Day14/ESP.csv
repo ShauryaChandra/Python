@@ -1,0 +1,101 @@
+EEID,Full Name,Job Title,Department,Bonus %,City,Country,Exit Date
+EMP001,Alex Patel,Marketing Specialist,HR,13.09,Jaipur,USA,2023-09-03
+EMP002,Dev Mehta,Sales Executive,Finance,20.91,Ahmedabad,Germany,
+EMP003,Yash Nair,Product Manager,HR,10.72,Bangalore,India,
+EMP004,Shaurya Kapoor,Business Analyst,Product,8.22,Chennai,Canada,2025-09-18
+EMP005,Neha Patel,Marketing Specialist,Finance,11.83,Noida,USA,
+EMP006,Karan Singh,HR Manager,Product,17.51,Hyderabad,India,2025-09-19
+EMP007,Dev Mehta,Data Scientist,HR,24.74,Noida,USA,
+EMP008,Aman Patel,Software Engineer,Product,7.96,Chennai,Germany,
+EMP009,Sneha Jain,Business Analyst,HR,12.32,Chennai,Germany,
+EMP010,Kabir Chopra,Marketing Specialist,Marketing,22.37,Noida,USA,
+EMP011,Shaurya Nair,Marketing Specialist,Analytics,11.85,Hyderabad,Canada,
+EMP012,Priya Kapoor,Business Analyst,Analytics,5.96,Mumbai,India,2025-01-10
+EMP013,Shaurya Sharma,Accountant,Engineering,14.8,Bangalore,Germany,
+EMP014,Ishita Gupta,Data Scientist,Sales,18.62,Kolkata,UK,
+EMP015,Ananya Gupta,Operations Manager,Sales,21.95,Kolkata,UK,
+EMP016,Yash Gupta,Business Analyst,Operations,21.29,Jaipur,USA,
+EMP017,Kabir Mehta,Marketing Specialist,Marketing,7.58,Ahmedabad,Germany,
+EMP018,Aman Nair,Accountant,Finance,17.29,Hyderabad,USA,
+EMP019,Rohan Chopra,Product Manager,Marketing,10.06,Mumbai,Canada,2025-05-15
+EMP020,Alex Nair,Data Analyst,HR,16.56,Delhi,UK,2025-02-14
+EMP021,Aryan Kapoor,Software Engineer,Operations,6.42,Chennai,USA,
+EMP022,Rohan Patel,Operations Manager,Product,21.03,Kolkata,USA,
+EMP023,Sneha Chopra,Data Analyst,Finance,16.49,Kolkata,USA,
+EMP024,Arjun Gupta,Product Manager,Analytics,17.88,Chennai,USA,
+EMP025,Neha Mehta,Product Manager,Engineering,18.33,Bangalore,USA,
+EMP026,Yash Sharma,HR Manager,Analytics,21.57,Jaipur,UK,2024-02-07
+EMP027,Priya Patel,Data Analyst,HR,22.37,Mumbai,Germany,2023-11-26
+EMP028,Nikita Kapoor,Business Analyst,Operations,16.03,Hyderabad,Germany,
+EMP029,Neha Chopra,Operations Manager,Analytics,18.48,Hyderabad,Canada,
+EMP030,Priya Chopra,Data Scientist,Operations,24.71,Delhi,USA,
+EMP031,Arjun Nair,Software Engineer,Finance,13.09,Mumbai,Canada,
+EMP032,Nikita Kapoor,Business Analyst,Finance,7.73,Pune,USA,2025-01-02
+EMP033,Riya Jain,Accountant,Sales,12.78,Delhi,UK,
+EMP034,Dev Kapoor,Operations Manager,Finance,9.21,Kolkata,India,
+EMP035,Aryan Mehta,Operations Manager,Sales,6.38,Kolkata,Germany,
+EMP036,Meera Patel,Sales Executive,Engineering,17.17,Bangalore,UK,
+EMP037,Ananya Jain,Sales Executive,Operations,18.14,Ahmedabad,USA,
+EMP038,Rahul Sharma,HR Manager,Analytics,14.1,Pune,Germany,2025-02-17
+EMP039,Nikita Patel,Software Engineer,Operations,5.2,Ahmedabad,India,
+EMP040,Sneha Chopra,Operations Manager,Product,16.67,Bangalore,Germany,
+EMP041,Rohan Jain,Marketing Specialist,Sales,12.54,Jaipur,Canada,
+EMP042,Ananya Nair,HR Manager,HR,15.21,Hyderabad,Canada,
+EMP043,Sneha Singh,Operations Manager,Finance,7.94,Jaipur,USA,
+EMP044,Arjun Singh,Product Manager,Analytics,5.37,Delhi,Canada,2024-02-28
+EMP045,Sneha Sharma,Software Engineer,Product,14.21,Delhi,Canada,2024-11-21
+EMP046,Neha Jain,Data Scientist,Marketing,20.02,Noida,India,2024-02-16
+EMP047,Shaurya Jain,Data Scientist,Operations,15.91,Pune,India,
+EMP048,Kabir Singh,Data Scientist,Product,22.96,Chennai,UK,
+EMP049,Nikita Nair,Operations Manager,Engineering,14.26,Kolkata,Canada,
+EMP050,Aryan Gupta,Operations Manager,Marketing,15.31,Chennai,Germany,
+EMP051,Ananya Jain,Accountant,Marketing,18.02,Pune,Canada,
+EMP052,Simran Sharma,Business Analyst,HR,19.24,Noida,Germany,
+EMP053,Neha Verma,Marketing Specialist,Sales,24.57,Ahmedabad,India,
+EMP054,Riya Kapoor,Sales Executive,Engineering,17.15,Chennai,Canada,2024-01-23
+EMP055,Arjun Mehta,HR Manager,Analytics,5.39,Delhi,Canada,
+EMP056,Neha Jain,Data Scientist,Operations,13.48,Pune,UK,
+EMP057,Yash Singh,Data Analyst,Finance,12.92,Pune,Germany,
+EMP058,Riya Mehta,Product Manager,Finance,13.19,Kolkata,USA,
+EMP059,Arjun Gupta,Software Engineer,Marketing,18.53,Ahmedabad,USA,
+EMP060,Shaurya Kapoor,Marketing Specialist,Finance,7.57,Bangalore,India,
+EMP061,Ishita Nair,Data Scientist,Marketing,15.94,Kolkata,USA,
+EMP062,Dev Jain,HR Manager,Product,11.91,Bangalore,Germany,2023-10-18
+EMP063,Priya Verma,Business Analyst,Sales,21.18,Delhi,USA,
+EMP064,Alex Mehta,Business Analyst,Engineering,22.86,Bangalore,India,
+EMP065,Arjun Jain,Sales Executive,Operations,12.21,Mumbai,India,2023-12-08
+EMP066,Aryan Gupta,Data Analyst,Analytics,21.05,Kolkata,UK,
+EMP067,Sneha Gupta,Software Engineer,Engineering,6.49,Noida,USA,
+EMP068,Ishita Patel,Marketing Specialist,Sales,5.69,Kolkata,USA,
+EMP069,Dev Jain,Accountant,Operations,23.91,Jaipur,UK,2026-01-15
+EMP070,Dev Chopra,Data Scientist,Product,24.79,Mumbai,Canada,
+EMP071,Kabir Sharma,Software Engineer,Finance,7.49,Bangalore,India,2024-08-16
+EMP072,Alex Gupta,Product Manager,HR,22.12,Noida,Germany,
+EMP073,Alex Gupta,Data Analyst,Analytics,16.94,Delhi,India,
+EMP074,Meera Gupta,HR Manager,Product,22.96,Kolkata,Canada,
+EMP075,Simran Patel,Data Analyst,Marketing,7.1,Hyderabad,USA,
+EMP076,Ananya Verma,Accountant,Marketing,11.24,Mumbai,USA,
+EMP077,Nikita Kapoor,Operations Manager,Marketing,23.19,Hyderabad,India,
+EMP078,Rohan Sharma,Data Analyst,Finance,8.98,Kolkata,India,
+EMP079,Rohan Mehta,Data Scientist,HR,11.62,Chennai,Canada,
+EMP080,Shaurya Chopra,Business Analyst,HR,8.3,Delhi,USA,2025-03-23
+EMP081,Yash Jain,Marketing Specialist,Finance,6.09,Ahmedabad,USA,
+EMP082,Riya Jain,Data Scientist,Operations,19.87,Delhi,Germany,
+EMP083,Meera Jain,Software Engineer,Sales,22.23,Noida,Germany,
+EMP084,Rahul Chopra,Product Manager,Sales,11.17,Noida,Germany,
+EMP085,Neha Chopra,Data Analyst,Sales,19.76,Mumbai,UK,
+EMP086,Karan Verma,Product Manager,Product,7.75,Pune,India,
+EMP087,Arjun Chopra,Software Engineer,Engineering,7.65,Mumbai,India,2024-03-28
+EMP088,Yash Kapoor,Product Manager,Marketing,17.82,Pune,India,2024-05-04
+EMP089,Ishita Patel,Sales Executive,Engineering,17.2,Hyderabad,UK,2024-06-08
+EMP090,Sneha Kapoor,Accountant,Engineering,23.6,Bangalore,UK,
+EMP091,Sneha Chopra,Software Engineer,Analytics,10.07,Chennai,India,
+EMP092,Dev Patel,Data Analyst,Analytics,8.51,Pune,Canada,2025-09-13
+EMP093,Karan Singh,Product Manager,Marketing,10.84,Pune,USA,
+EMP094,Priya Singh,Operations Manager,Engineering,24.62,Pune,Canada,2025-08-02
+EMP095,Kabir Nair,Business Analyst,Product,11.94,Noida,Germany,2025-03-07
+EMP096,Rahul Mehta,Operations Manager,Engineering,9.82,Bangalore,India,
+EMP097,Alex Singh,Data Analyst,Engineering,13.21,Bangalore,Canada,
+EMP098,Ananya Patel,Accountant,Engineering,19.24,Jaipur,UK,2024-05-17
+EMP099,Aman Kapoor,Accountant,Finance,23.37,Delhi,UK,2024-08-03
+EMP100,Ishita Sharma,Data Analyst,Analytics,12.18,Kolkata,USA,
